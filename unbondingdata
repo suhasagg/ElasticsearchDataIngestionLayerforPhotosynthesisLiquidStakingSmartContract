@@ -1,0 +1,23 @@
+epoch_unbonding_record:
+- epoch_number: "104"
+  host_zone_unbondings:
+  - denom: uarch
+    host_zone_id: localnet
+    native_token_amount: "9075090375"
+    st_token_amount: "6451365537"
+    status: "CLAIMABLE"
+    unbonding_time: "1733573150805774859"
+    user_redemption_records:
+    - localnet.104.stride1u20df3trc2c2zdhm8qvh2hdjx9ewh00sv6eyy8
+- epoch_number: "105"
+  host_zone_unbondings:
+  - denom: uarch
+    host_zone_id: localnet
+    native_token_amount: "0"
+    st_token_amount: "0"
+    status: UNBONDING_QUEUE
+    unbonding_time: "0"
+    user_redemption_records: []
+pagination:
+  next_key: null
+  total: "0"
